@@ -1,0 +1,6 @@
+pandas 
+seaborn
+sweetviz
+sphinx
+nbsphinx
+invoke
