@@ -2,8 +2,6 @@
 .index.rst.swp
 .ipynb_checkpoints
 _build
-_static
-_templates
 input
 temp
 make.bat

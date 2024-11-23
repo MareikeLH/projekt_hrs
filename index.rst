@@ -14,5 +14,5 @@ Herzlich Willkommen! Hier findet die Dokumentation zu unserem Projekt statt.
    :caption: Inhalte:
 
    docs/dataset
-   main
+   notebooks
 
